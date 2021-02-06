@@ -11,7 +11,7 @@ ALMANACK OF NAVAL RAVIKANT - 中文全译版
 
 ---
 0. [译序.html](译序.html)
-1. 关于本书的重要说明（免责声明）.html
-2. 前言.html
-3. ERIC 的话（关于本书）.html
-4. NAVAL RAVIKANT 年表.html
+1. [关于本书的重要说明（免责声明）.html](关于本书的重要说明（免责声明）.html)
+2. [前言.html](前言.html)
+3. [ERIC 的话（关于本书）.html](ERIC 的话（关于本书）.html)
+4. [NAVAL RAVIKANT 年表.html](NAVAL RAVIKANT 年表.html)
